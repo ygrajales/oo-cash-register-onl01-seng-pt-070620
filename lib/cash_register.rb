@@ -34,8 +34,6 @@ class CashRegister
     self.total = self.last_total
     self.items = self.last_items
   end
-  
-  
 
 
 end
